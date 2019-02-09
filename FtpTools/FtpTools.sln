@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpTools", "FtpTools\FtpTools.csproj", "{EEE3CFC8-B367-45E7-ABE3-D4569ED9AD5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE3CFC8-B367-45E7-ABE3-D4569ED9AD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE3CFC8-B367-45E7-ABE3-D4569ED9AD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE3CFC8-B367-45E7-ABE3-D4569ED9AD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE3CFC8-B367-45E7-ABE3-D4569ED9AD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6741BE81-FD87-4CAF-84DD-41250C8E9E2A}
+	EndGlobalSection
+EndGlobal
